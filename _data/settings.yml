@@ -2,9 +2,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Youngjae
 logo:
-author: themefisher
+author: Youngjae
 description: this is meta description
 email: steve.fruits@email.com
 phone: +880 2544 658 256
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Youngjae <br> AI Researcher
 
 social:
   - { icon: "ti-facebook", link: "#" }
