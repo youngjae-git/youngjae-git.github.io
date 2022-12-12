@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN
-date:   2022-12-12 15:05:55 +0300
+title:  [Paper Review] StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN
+date:   2022-12-12 
 image:  /assets/images/blog/post-5.jpg
 author: youngjae
 tags:   Paper
