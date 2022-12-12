@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Youngjae Kim
-image: assets/images/about/author.jpg
+image: assets/images/about/youngjae.jpeg
 signature: assets/images/about/signature.png
 ---
 
